@@ -1,4 +1,4 @@
-RMIT Programming 1 Assignment 2.
+RMIT Programming 1 Assignment 2
 
 ___
 
